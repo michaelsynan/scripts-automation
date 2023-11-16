@@ -3,3 +3,4 @@
 - Sends message
 - Follows user
 - Repeats for all in array
+- Script pauses to let user login
